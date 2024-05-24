@@ -1,0 +1,7 @@
+# Ignore virtual environment
+newenv/
+
+# Ignore .env file
+.env
+
+# Ignore app.py file
